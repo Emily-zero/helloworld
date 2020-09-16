@@ -1,2 +1,3 @@
 # helloworld
-learn to use github
+Following the guide and learning to use github
+I'm a CS student from China
